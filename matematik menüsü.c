@@ -58,7 +58,7 @@ switch(islem){
 				
 }
 	case 2 :
-	printf("Merhaba Uslu Sayi Alma Secenegini Sectiniz \n");
+	printf("\nMerhaba Uslu Sayi Alma Secenegini Sectiniz \n");
 	printf("Lutfen Tabani Giriniz :\n");
 	scanf("%d",&sayi1);
 	printf("Lutfen Ussu Giriniz : \n");
